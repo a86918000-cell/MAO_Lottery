@@ -1,0 +1,19 @@
+
+/* 大樂透特別號 */
+.ball.special {
+  border-color: #d89a24;
+  color: #a66a00;
+  background: #fff9e9;
+}
+.special-wrap {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+}
+.special-label {
+  color: #a66a00;
+  font-size: 12px;
+  font-weight: 800;
+}
+.week-item .special-label { font-size: 10px; }
