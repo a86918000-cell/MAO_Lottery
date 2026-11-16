@@ -1,10 +1,36 @@
 {
-  "updatedAt": "2026-11-14T18:45:35+08:00",
+  "updatedAt": "2026-11-16T19:53:07+08:00",
   "source": "https://fantasy-5.com/california/past-numbers",
   "sourceType": "third-party; verify against California Lottery",
   "dateConvention": "Asia/Taipei",
   "dateNote": "date 為台灣顯示日期；sourceLocalDate 為加州當地開獎日期",
   "records": [
+    {
+      "date": "2026-11-16",
+      "period": "",
+      "numbers": [
+        6,
+        9,
+        12,
+        17,
+        28
+      ],
+      "source": "fantasy-5.com",
+      "sourceLocalDate": "2026-11-15"
+    },
+    {
+      "date": "2026-11-15",
+      "period": "",
+      "numbers": [
+        6,
+        12,
+        17,
+        37,
+        39
+      ],
+      "source": "fantasy-5.com",
+      "sourceLocalDate": "2026-11-14"
+    },
     {
       "date": "2026-11-14",
       "period": "",
